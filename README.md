@@ -228,3 +228,6 @@ This repository serves as the official landing page for Barbie Princess Dress Up
 - 💬 **[Community](https://softyne.com/about-us/)**
 ---
 **Get the most recent version of Barbie Princess Dress Up today!**
+
+---
+**Last updated:** 2026-09-07 14:56:30 UTC
